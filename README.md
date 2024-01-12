@@ -38,5 +38,40 @@ Comunidad dedicada a aprender y compartir conocimientos en programación y tecno
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+<a href="https://www.youtube.com/watch?v=ADCnOu9h7M4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ADCnOu9h7M4&title=Vida+de+programadora+%E2%98%95%EF%B8%8F%F0%9F%92%BB%E2%9C%88%EF%B8%8F%F0%9F%8C%99%F0%9F%8D%95&lang=en&timestamp=1704993374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=9">
+    <img src="https://ytcards.demolab.com/?id=ADCnOu9h7M4&title=Vida+de+programadora+%E2%98%95%EF%B8%8F%F0%9F%92%BB%E2%9C%88%EF%B8%8F%F0%9F%8C%99%F0%9F%8D%95&lang=en&timestamp=1704993374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=9" alt="Vida de programadora ☕️💻✈️🌙🍕" title="Vida de programadora ☕️💻✈️🌙🍕">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=hewnYoAjJ0M">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hewnYoAjJ0M&title=AWS+Amplify+crea+tu+backend+con+los+servicios+de+la+nube+de+AWS+%F0%9F%92%A1&lang=en&timestamp=1704474026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=61">
+    <img src="https://ytcards.demolab.com/?id=hewnYoAjJ0M&title=AWS+Amplify+crea+tu+backend+con+los+servicios+de+la+nube+de+AWS+%F0%9F%92%A1&lang=en&timestamp=1704474026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=61" alt="AWS Amplify crea tu backend con los servicios de la nube de AWS 💡" title="AWS Amplify crea tu backend con los servicios de la nube de AWS 💡">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=N9l1KtDV3y4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N9l1KtDV3y4&title=Cuando+empiezas+a+estudiar+programaci%C3%B3n+%F0%9F%98%85&lang=en&timestamp=1704391326&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=6">
+    <img src="https://ytcards.demolab.com/?id=N9l1KtDV3y4&title=Cuando+empiezas+a+estudiar+programaci%C3%B3n+%F0%9F%98%85&lang=en&timestamp=1704391326&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=6" alt="Cuando empiezas a estudiar programación 😅" title="Cuando empiezas a estudiar programación 😅">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=m1tNjm7LJVk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m1tNjm7LJVk&title=Resolver+bugs+puede+ser+frustrante+%F0%9F%98%92&lang=en&timestamp=1703869238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=11">
+    <img src="https://ytcards.demolab.com/?id=m1tNjm7LJVk&title=Resolver+bugs+puede+ser+frustrante+%F0%9F%98%92&lang=en&timestamp=1703869238&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=11" alt="Resolver bugs puede ser frustrante 😒" title="Resolver bugs puede ser frustrante 😒">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=DUES66jHKEA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DUES66jHKEA&title=Tu+c%C3%B3digo+no+tiene+que+ser+perfecto+%F0%9F%A5%B9&lang=en&timestamp=1703782814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=5">
+    <img src="https://ytcards.demolab.com/?id=DUES66jHKEA&title=Tu+c%C3%B3digo+no+tiene+que+ser+perfecto+%F0%9F%A5%B9&lang=en&timestamp=1703782814&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=5" alt="Tu código no tiene que ser perfecto 🥹" title="Tu código no tiene que ser perfecto 🥹">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=cY3WAM1pUXo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cY3WAM1pUXo&title=Qu%C3%A9+poner+en+tu+CV+si+no+tienes+experiencia+laboral+%F0%9F%A4%94&lang=en&timestamp=1703267607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60">
+    <img src="https://ytcards.demolab.com/?id=cY3WAM1pUXo&title=Qu%C3%A9+poner+en+tu+CV+si+no+tienes+experiencia+laboral+%F0%9F%A4%94&lang=en&timestamp=1703267607&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=60" alt="Qué poner en tu CV si no tienes experiencia laboral 🤔" title="Qué poner en tu CV si no tienes experiencia laboral 🤔">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
