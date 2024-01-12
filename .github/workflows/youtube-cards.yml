@@ -3,6 +3,9 @@ on:
   schedule:
     # At 12:00 AM, only on Friday
     - cron: "0 * * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -18,4 +21,4 @@ jobs:
           channel_id: UCBrc74eu-zn7gTc2w330k_g
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+          show_duration: false
