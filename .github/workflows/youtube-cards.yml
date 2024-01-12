@@ -3,9 +3,9 @@ on:
   schedule:
     # At 12:00 AM, only on Friday
     - cron: "0 * * * *"
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 jobs:
@@ -21,11 +21,11 @@ jobs:
         with:
           channel_id: UCQCYBDBn1d7hQMkRQQjMuOA
           comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
-          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
-          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
-          max_title_lines: 2
-          output_type: html
-      - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
-        shell: bash
+      #     youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+      #     show_duration: true
+      #     theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+      #     theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+      #     max_title_lines: 2
+      #     output_type: html
+      # - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+      #   shell: bash
