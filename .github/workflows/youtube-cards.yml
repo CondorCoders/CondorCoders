@@ -17,4 +17,4 @@ jobs:
         id: youtube-cards
         with:
           channel_id: UCBrc74eu-zn7gTc2w330k_g
-          comment_tag_name: EXAMPLE-YOUTUBE-CARDS
+          comment_tag_name: YOUTUBE-CARDS
