@@ -33,10 +33,10 @@ Comunidad dedicada a aprender y compartir conocimientos en programación y tecno
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+## Las estadisticas del repositorio
 ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 
-
+## Mis ultimos videos de Youtube
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Vida de programadora ☕️💻✈️🌙🍕](https://ytcards.demolab.com/?id=ADCnOu9h7M4&title=Vida+de+programadora+%E2%98%95%EF%B8%8F%F0%9F%92%BB%E2%9C%88%EF%B8%8F%F0%9F%8C%99%F0%9F%8D%95&lang=en&timestamp=1704993374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vida de programadora ☕️💻✈️🌙🍕")](https://www.youtube.com/watch?v=ADCnOu9h7M4)
 [![AWS Amplify crea tu backend con los servicios de la nube de AWS 💡](https://ytcards.demolab.com/?id=hewnYoAjJ0M&title=AWS+Amplify+crea+tu+backend+con+los+servicios+de+la+nube+de+AWS+%F0%9F%92%A1&lang=en&timestamp=1704474026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AWS Amplify crea tu backend con los servicios de la nube de AWS 💡")](https://www.youtube.com/watch?v=hewnYoAjJ0M)
